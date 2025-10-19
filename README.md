@@ -44,13 +44,40 @@ Data Optimization: Efficient storage and retrieval of data using optimized datab
 
 ### Importance of User-Friendly Design
 A smooth and intuitive design enhances user satisfaction and reduces friction in the booking process. It encourages trust and boosts conversion rates by making navigation and booking effortless.
+
+
+### 🎨 Figma Design Specifications
+
+#### Color Styles
+- **Primary:** #FF5A5F
+- **Secondary:** #008489
+- **Background:** #FFFFFF
+- **Text:** #222222
+- **Secondary Text:** #717171
+
+#### Typography
+- **Primary Font:** Circular
+- **Headings:** Bold (700), 24px–32px
+- **Body Text:** Medium (500), 16px
+- **Secondary Text:** Book (400), 14px
+
+### Importance of Identifying Design Properties
+Understanding color styles and typography ensures consistency across components and helps maintain brand identity. Analyzing mockup design properties allows developers to translate visual designs accurately into functional interfaces.
+
+
   
-Technology Stack
-- Django – Builds the backend.
-- PostgreSQL – Stores data.
-- GraphQL – Lets frontends fetch data easily.
-- Docker – Helps run the app anywhere.
-- GitHub Actions – Automates testing and deployment.
+## 👥 Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|------------------|
+| **Project Manager** | Oversees project timeline, manages deliverables, and coordinates the team. |
+| **Frontend Developers** | Build UI components, ensure responsive and accessible design. |
+| **Backend Developers** | Develop APIs, manage databases, and implement core business logic. |
+| **Designers** | Create mockups, define design systems, and ensure consistent UX. |
+| **QA/Testers** | Test application functionality, report bugs, and ensure quality. |
+| **DevOps Engineers** | Manage deployment, CI/CD pipelines, and server configuration. |
+| **Product Owner** | Defines requirements, prioritizes features, and represents stakeholders. |
+| **Scrum Master** | Facilitates Agile meetings, removes blockers, and tracks progress. |
 
 Database Design
 Main Entities:
