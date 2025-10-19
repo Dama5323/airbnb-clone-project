@@ -18,6 +18,32 @@ Data Optimization: Efficient storage and retrieval of data using optimized datab
 - Frontend:HTML, CSS, JavaScript (React)
 - Version Control: Git & GitHub
 - Design Tools:Figma (for UI/UX design)
+
+
+## 🖌️ UI/UX Design Planning
+
+### Design Goals
+- Create an intuitive and seamless booking flow.
+- Maintain visual consistency across all pages.
+- Ensure mobile-first responsiveness.
+- Optimize performance for fast load times.
+
+### Key Features
+- Property search and filtering.
+- Detailed property viewing.
+- Secure checkout process.
+- User authentication.
+
+### Primary Pages
+
+| Page | Description |
+|------|--------------|
+| **Property Listing View** | Grid display of available properties with filters for location, price, and rating. |
+| **Listing Detailed View** | Shows complete property information, including images, description, and booking form. |
+| **Simple Checkout View** | Streamlined payment process with booking confirmation details. |
+
+### Importance of User-Friendly Design
+A smooth and intuitive design enhances user satisfaction and reduces friction in the booking process. It encourages trust and boosts conversion rates by making navigation and booking effortless.
   
 Technology Stack
 - Django – Builds the backend.
