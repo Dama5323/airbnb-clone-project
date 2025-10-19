@@ -15,6 +15,9 @@ Data Optimization: Efficient storage and retrieval of data using optimized datab
 - Database Admin – Manages the data.
 - Frontend Developer – Creates the user interface.
 - DevOps Engineer – Manages deployment and updates.
+- Frontend:HTML, CSS, JavaScript (React)
+- Version Control: Git & GitHub
+- Design Tools:Figma (for UI/UX design)
   
 Technology Stack
 - Django – Builds the backend.
