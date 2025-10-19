@@ -1,4 +1,4 @@
-Airbnb Clone Project
+8Airbnb Clone Project
 Objective
 The Airbnb Clone project simulates the development of a robust, scalable backend for a property rental platform. It focuses on essential functionalities such as user management, property listings, bookings, payments, and reviews, mimicking Airbnb’s core features.
 
@@ -103,5 +103,23 @@ API Security
 CI/CD Pipeline
 We’ll use GitHub Actions and Docker to:
 - Run tests automatically
-- Deploy the app easily
+- Deploy the app easily 
+
+## 🧩 UI Component Patterns
+
+### Planned Components
+
+1. **Navbar**
+   - Contains logo, search bar, and navigation menu.
+   - Adapts to different screen sizes (responsive).
+
+2. **Property Card**
+   - Displays property image, price, rating, and favorite button.
+   - Clickable to open detailed property view.
+
+3. **Footer**
+   - Contains site links, social media icons, and copyright.
+
+### Reusability & Consistency
+Each component is designed to be reusable and maintain consistent design and behavior across the application.
 
